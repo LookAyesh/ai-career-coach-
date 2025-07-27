@@ -1,0 +1,14 @@
+#Virtual Environment 
+venv/
+
+#Secrets
+.env 
+
+#Python Cache 
+__pycache__/
+*.__pycache__
+
+
+#User Uploads & Index
+uploads/
+faiss_index/

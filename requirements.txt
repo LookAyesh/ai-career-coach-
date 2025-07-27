@@ -1,0 +1,11 @@
+flask
+python-dotenv
+werkzeug
+groq
+langchain-groq
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+pypdf2
+markdown2
